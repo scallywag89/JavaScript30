@@ -20,4 +20,4 @@ It's definitely a pretty rudimentary way of doing it (just hiding the buttons de
 - [x] Transforming elements
 - [x] Query Selectors
 
-This one was fun!
+This one was fun, I loved the 'realistic tick' of the second-hand.
