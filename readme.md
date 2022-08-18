@@ -1,5 +1,5 @@
 # JavaScript30 Challenge!
-
+---
 ### Day One - JS Drumkit 🥁 :
 ---
 **Today I learned about:**
