@@ -21,3 +21,14 @@ It's definitely a pretty rudimentary way of doing it (just hiding the buttons de
 - [x] Query Selectors
 
 This one was fun, I loved the 'realistic tick' of the second-hand.
+
+---
+
+### Day Three - CSS variables + JS 🎨 :
+---
+**Today I learned about:**
+- [x] ':root' selector
+- [x] 'var()' function
+- [x] how to update variables with js
+
+So cool to know that you can target and update css using js
