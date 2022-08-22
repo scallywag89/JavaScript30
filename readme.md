@@ -1,5 +1,5 @@
 # JavaScript30 Challenge!
-
+---
 ### Day One - JS Drumkit 🥁 :
 ---
 **Today I learned about:**
@@ -13,3 +13,22 @@ You can select the Major or Minor button and it will change the output sound.
 It's definitely a pretty rudimentary way of doing it (just hiding the buttons depending on what is selected), but fun nonetheless!
 
 ---
+
+### Day Two - JS & CSS Clock ⏰ :
+---
+**Today I learned about:**
+- [x] Transforming elements
+- [x] Query Selectors
+
+This one was fun, I loved the 'realistic tick' of the second-hand.
+
+---
+
+### Day Three - CSS variables + JS 🎨 :
+---
+**Today I learned about:**
+- [x] ':root' selector
+- [x] 'var()' function
+- [x] how to update variables with js
+
+So cool to know that you can target and update css using js
