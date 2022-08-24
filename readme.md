@@ -32,3 +32,13 @@ This one was fun, I loved the 'realistic tick' of the second-hand.
 - [x] how to update variables with js
 
 So cool to know that you can target and update css using js
+
+### Day Four - Array Cardio 🏋️‍♀️ :
+---
+**Today I learned about:**
+- [x] filter()
+- [x] map()
+- [x] sort()
+- [x] reduce() 
+
+This was fun, I liked the versatility of the reduce function!
