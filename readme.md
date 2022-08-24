@@ -42,3 +42,12 @@ So cool to know that you can target and update css using js
 - [x] reduce() 
 
 This was fun, I liked the versatility of the reduce function!
+
+### Day Five - Flex Panel Gallery 🖼 :
+---
+**Today I learned about:**
+- [x] flex properties
+- [x] event listeners for transitions
+- [x] class toggling
+
+---
