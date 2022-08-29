@@ -33,6 +33,8 @@ This one was fun, I loved the 'realistic tick' of the second-hand.
 
 So cool to know that you can target and update css using js
 
+---
+
 ### Day Four - Array Cardio 🏋️‍♀️ :
 ---
 **Today I learned about:**
@@ -42,6 +44,7 @@ So cool to know that you can target and update css using js
 - [x] reduce() 
 
 This was fun, I liked the versatility of the reduce function!
+---
 
 ### Day Five - Flex Panel Gallery 🖼 :
 ---
@@ -49,5 +52,15 @@ This was fun, I liked the versatility of the reduce function!
 - [x] flex properties
 - [x] event listeners for transitions
 - [x] class toggling
+
+---
+
+### Day Six - Ajax Type Ahead ✍️ :
+---
+**Today I learned about:**
+- [x] fetch 
+- [x] saving regular expressions as variables
+- [x] pushing JSON data into arrays
+- [x] AJAX with JS
 
 ---
