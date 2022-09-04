@@ -64,3 +64,13 @@ This was fun, I liked the versatility of the reduce function!
 - [x] AJAX with JS
 
 ---
+
+### Day Seven - Array Cardio pt. 2 🏃‍♂️:
+---
+**Today I learned about:**
+- [x] some 
+- [x] every
+- [x] find
+- [x] findIndex
+
+---
